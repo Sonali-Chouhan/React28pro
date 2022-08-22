@@ -3,8 +3,6 @@
 }
 .tablediv{
   width: 50%;
-  /* justify-content: center; */
-  /* margin-right: 23px; */
   margin-left: 256px;
   text-align: center;
   padding: 25px 20px;
@@ -13,6 +11,5 @@
 width: 25%;
   display: flex;
   margin: 10px;
-  /* margin-right: 33%; */
   margin-left: 30%;
 }
