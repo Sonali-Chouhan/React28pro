@@ -1,0 +1,27 @@
+export const check=[
+    {
+      id:"1",
+      name:"box",
+      value:false
+    },
+    {
+        id:"2",
+        name:"A",
+        value:false
+    },
+    {
+        id:"3",
+        name:"B",
+        value:false
+    },
+    {
+        id:"4",
+      name:"C",
+      value:false
+    },
+    {
+        id:"5",
+      name:"D",
+      value:false
+    },
+]

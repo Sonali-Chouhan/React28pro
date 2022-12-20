@@ -4,7 +4,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import Table from "react-bootstrap/Table";
 import { Button, Form, Row, Col } from "react-bootstrap";
 import "./App.css";
-const App = () => {
+const Profile = () => {
   const [data, setdata] = useState([]);
   const [value, setValue] = useState("");
   const [Sortvalue, setSortValue] = useState("");
@@ -154,4 +154,4 @@ const App = () => {
   );
 };
 
-export default App;
+export default Profile;
